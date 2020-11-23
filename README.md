@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm Sy0ung.
+- 🔭 I’m currently working on playing CTF.
+- 🌱 I’m currently learning Python and some security tools.
+<img src=https://camo.githubusercontent.com/6a0f76c7f114b2c8300ca379673520e5a898a0241ab216074dd7368354038abe/68747470733a2f2f692e696d6775722e636f6d2f6b644b686778362e676966 >
 
 <!--
 **Sy0ung/Sy0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
